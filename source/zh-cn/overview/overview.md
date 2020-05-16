@@ -1,4 +1,4 @@
-title:  平台概述
+title:  平台
 ---
 
 [专题热点](http://topic.gizwits.com/) 、 [本周热门下载](http://docs.gizwits.com/zh-cn/UserManual/hide/download.html) 、 [视频教程](http://docs.gizwits.com/zh-cn/UserManual/hide/videos.html)
